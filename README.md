@@ -1,0 +1,2 @@
+# PurchaseManager
+bandymas
